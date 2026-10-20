@@ -6,6 +6,12 @@ An interactive, browser-based learning experience by **Christopher Hayes, CDAIO*
 
 > Continuity starts before migration. A handover cannot pass on knowledge that was never recorded. A complete record can still be wrong.
 
+## Explore the live Atlas
+
+[Open the interactive Knowledge Continuity Atlas](https://chrisdhayes.github.io/LLM-knowledge-continuity-atlas/)
+
+Start with **Show me what can get lost**, or choose **Explore freely** to compare scenarios.
+
 ## Why I built this
 
 Keeping an AI-generated answer is not the same as keeping the reasons for trusting it. The sources, assumptions, objections, tests and approval limits behind a recommendation can be fragmented, omitted or lost before a replacement AI ever arrives.
